@@ -1,0 +1,6 @@
+# Overall Ideology
+
+I don't want any format specific code in the cpu definitions. I want this 
+project to be cleanly separated into two segments: Object file, and CPU 
+definition. Ideally this would make it easier to add new CPUs.
+
