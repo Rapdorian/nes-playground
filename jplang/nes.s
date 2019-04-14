@@ -1,0 +1,2 @@
+PPU_DATA = $2007
+PPU_ADDR = $2006
